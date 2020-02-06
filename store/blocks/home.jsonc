@@ -8,7 +8,7 @@
     "props": {
       "text": "**Hello, World!**",
       "textPosition": "center",
-      "textAlignment": "right"
+      "textAlignment": "RIGHT"
     }
   }
 }
